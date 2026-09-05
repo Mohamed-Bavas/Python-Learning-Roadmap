@@ -37,7 +37,7 @@ My goal is to build strong Python programming fundamentals and use Python for **
 * Type Casting
 * Comments
 
-**Status:** ⬜ Not Started
+**Status:** ✅ Completed
 
 ---
 
@@ -255,7 +255,7 @@ Practical projects will be developed after completing the Python fundamentals.
 
 | Day    | Topic                  | Status |
 | ------ | ---------------------- | ------ |
-| Day 01 | Python Basics          | ⬜      |
+| Day 01 | Python Basics          | ✅      |
 | Day 02 | Operators              | ⬜      |
 | Day 03 | Conditional Statements | ⬜      |
 | Day 04 | Loops                  | ⬜      |
@@ -335,10 +335,10 @@ Add file handling programs
 
 # 📈 Learning Progress
 
-**Overall Progress:** `0%`
+**Overall Progress:** `6.67%` 🎯
 
 ```text
-Python Basics          ⬜
+Python Basics          ✅
 Operators              ⬜
 Conditions             ⬜
 Loops                  ⬜
