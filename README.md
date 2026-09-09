@@ -51,7 +51,7 @@ My goal is to build strong Python programming fundamentals and use Python for **
 * Membership Operators
 * Identity Operators
 
-**Status:** ⬜ Not Started
+**Status:** ✅ Completed
 
 ---
 
@@ -256,7 +256,7 @@ Practical projects will be developed after completing the Python fundamentals.
 | Day    | Topic                  | Status |
 | ------ | ---------------------- | ------ |
 | Day 01 | Python Basics          | ✅      |
-| Day 02 | Operators              | ⬜      |
+| Day 02 | Operators              | ✅      |
 | Day 03 | Conditional Statements | ⬜      |
 | Day 04 | Loops                  | ⬜      |
 | Day 05 | Functions              | ⬜      |
@@ -317,7 +317,7 @@ I use Git and GitHub to track my learning progress.
 
 ```bash
 git add .
-git commit -m "Complete Day 01 Python Basics"
+git commit -m "Complete Day 02 Python Operators"
 git push origin main
 ```
 
@@ -327,19 +327,22 @@ Example commit messages:
 Complete Python variables
 Add Python data types programs
 Complete Day 01
-Add calculator project
-Add file handling programs
+Complete Day 02 Python Operators
+Add arithmetic operators
+Add relational operators
+Add logical operators
+Add assignment operators
 ```
 
 ---
 
 # 📈 Learning Progress
 
-**Overall Progress:** `6.67%` 🎯
+**Overall Progress:** `13.33%` 🎯
 
 ```text
 Python Basics          ✅
-Operators              ⬜
+Operators              ✅
 Conditions             ⬜
 Loops                  ⬜
 Functions              ⬜
