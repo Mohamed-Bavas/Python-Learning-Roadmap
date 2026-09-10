@@ -63,7 +63,7 @@ My goal is to build strong Python programming fundamentals and use Python for **
 * Nested `if`
 * Conditional Expressions
 
-**Status:** ⬜ Not Started
+**Status:** ✅ Completed
 
 ---
 
@@ -257,7 +257,7 @@ Practical projects will be developed after completing the Python fundamentals.
 | ------ | ---------------------- | ------ |
 | Day 01 | Python Basics          | ✅      |
 | Day 02 | Operators              | ✅      |
-| Day 03 | Conditional Statements | ⬜      |
+| Day 03 | Conditional Statements | ✅      |
 | Day 04 | Loops                  | ⬜      |
 | Day 05 | Functions              | ⬜      |
 | Day 06 | Data Structures        | ⬜      |
@@ -317,7 +317,7 @@ I use Git and GitHub to track my learning progress.
 
 ```bash
 git add .
-git commit -m "Complete Day 02 Python Operators"
+git commit -m "Complete Day 03 Python Conditional Statements"
 git push origin main
 ```
 
@@ -332,18 +332,22 @@ Add arithmetic operators
 Add relational operators
 Add logical operators
 Add assignment operators
+Complete Day 03 Python Conditional Statements
+Add if statement examples
+Add if-else examples
+Add elif examples
 ```
 
 ---
 
 # 📈 Learning Progress
 
-**Overall Progress:** `13.33%` 🎯
+**Overall Progress:** `20%` 🎯
 
 ```text
 Python Basics          ✅
 Operators              ✅
-Conditions             ⬜
+Conditions             ✅
 Loops                  ⬜
 Functions              ⬜
 Data Structures        ⬜
