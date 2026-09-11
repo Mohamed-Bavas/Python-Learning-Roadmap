@@ -76,7 +76,7 @@ My goal is to build strong Python programming fundamentals and use Python for **
 * `continue`
 * `pass`
 
-**Status:** ⬜ Not Started
+**Status:** ✅ Completed
 
 ---
 
@@ -258,7 +258,7 @@ Practical projects will be developed after completing the Python fundamentals.
 | Day 01 | Python Basics          | ✅      |
 | Day 02 | Operators              | ✅      |
 | Day 03 | Conditional Statements | ✅      |
-| Day 04 | Loops                  | ⬜      |
+| Day 04 | Loops                  | ✅      |
 | Day 05 | Functions              | ⬜      |
 | Day 06 | Data Structures        | ⬜      |
 | Day 07 | Strings                | ⬜      |
@@ -317,11 +317,11 @@ I use Git and GitHub to track my learning progress.
 
 ```bash
 git add .
-git commit -m "Complete Day 03 Python Conditional Statements"
+git commit -m "Complete Day 04 Python Loops"
 git push origin main
 ```
 
-Example commit messages:
+### Example Commit Messages
 
 ```text
 Complete Python variables
@@ -336,19 +336,25 @@ Complete Day 03 Python Conditional Statements
 Add if statement examples
 Add if-else examples
 Add elif examples
+Complete Day 04 Python Loops
+Add for loop examples
+Add while loop examples
+Add nested loop examples
 ```
 
 ---
 
 # 📈 Learning Progress
 
-**Overall Progress:** `20%` 🎯
+**Overall Progress:** `26.67%` 🎯
+
+**4 / 15 Days Completed**
 
 ```text
 Python Basics          ✅
 Operators              ✅
 Conditions             ✅
-Loops                  ⬜
+Loops                  ✅
 Functions              ⬜
 Data Structures        ⬜
 Strings                ⬜
