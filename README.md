@@ -92,7 +92,7 @@ My goal is to build strong Python programming fundamentals and use Python for **
 * Lambda Functions
 * Scope
 
-**Status:** ⬜ Not Started
+**Status:** ✅ Completed
 
 ---
 
@@ -259,7 +259,7 @@ Practical projects will be developed after completing the Python fundamentals.
 | Day 02 | Operators              | ✅      |
 | Day 03 | Conditional Statements | ✅      |
 | Day 04 | Loops                  | ✅      |
-| Day 05 | Functions              | ⬜      |
+| Day 05 | Functions              | ✅      |
 | Day 06 | Data Structures        | ⬜      |
 | Day 07 | Strings                | ⬜      |
 | Day 08 | File Handling          | ⬜      |
@@ -317,7 +317,7 @@ I use Git and GitHub to track my learning progress.
 
 ```bash
 git add .
-git commit -m "Complete Day 04 Python Loops"
+git commit -m "Complete Day 05 Python Functions"
 git push origin main
 ```
 
@@ -340,22 +340,27 @@ Complete Day 04 Python Loops
 Add for loop examples
 Add while loop examples
 Add nested loop examples
+Complete Day 05 Python Functions
+Add function examples
+Add function arguments examples
+Add return value examples
+Add lambda function examples
 ```
 
 ---
 
 # 📈 Learning Progress
 
-**Overall Progress:** `26.67%` 🎯
+**Overall Progress:** `33.33%` 🎯
 
-**4 / 15 Days Completed**
+**5 / 15 Days Completed**
 
 ```text
 Python Basics          ✅
 Operators              ✅
 Conditions             ✅
 Loops                  ✅
-Functions              ⬜
+Functions              ✅
 Data Structures        ⬜
 Strings                ⬜
 File Handling          ⬜
