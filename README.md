@@ -105,7 +105,7 @@ My goal is to build strong Python programming fundamentals and use Python for **
 * List Comprehension
 * Dictionary Comprehension
 
-**Status:** ⬜ Not Started
+**Status:** ✅ Completed
 
 ---
 
@@ -214,7 +214,7 @@ My goal is to build strong Python programming fundamentals and use Python for **
 
 I will solve programming problems to improve my logical thinking and problem-solving skills.
 
-Examples:
+### Examples
 
 * Calculator
 * Even / Odd Number
@@ -260,7 +260,7 @@ Practical projects will be developed after completing the Python fundamentals.
 | Day 03 | Conditional Statements | ✅      |
 | Day 04 | Loops                  | ✅      |
 | Day 05 | Functions              | ✅      |
-| Day 06 | Data Structures        | ⬜      |
+| Day 06 | Data Structures        | ✅      |
 | Day 07 | Strings                | ⬜      |
 | Day 08 | File Handling          | ⬜      |
 | Day 09 | Exception Handling     | ⬜      |
@@ -317,7 +317,7 @@ I use Git and GitHub to track my learning progress.
 
 ```bash
 git add .
-git commit -m "Complete Day 05 Python Functions"
+git commit -m "Complete Day 06 Python Data Structures"
 git push origin main
 ```
 
@@ -327,33 +327,45 @@ git push origin main
 Complete Python variables
 Add Python data types programs
 Complete Day 01
+
 Complete Day 02 Python Operators
 Add arithmetic operators
 Add relational operators
 Add logical operators
 Add assignment operators
+
 Complete Day 03 Python Conditional Statements
 Add if statement examples
 Add if-else examples
 Add elif examples
+
 Complete Day 04 Python Loops
 Add for loop examples
 Add while loop examples
 Add nested loop examples
+
 Complete Day 05 Python Functions
 Add function examples
 Add function arguments examples
 Add return value examples
 Add lambda function examples
+
+Complete Day 06 Python Data Structures
+Add list examples
+Add tuple examples
+Add set examples
+Add dictionary examples
+Add list comprehension examples
+Add dictionary comprehension examples
 ```
 
 ---
 
 # 📈 Learning Progress
 
-**Overall Progress:** `33.33%` 🎯
+**Overall Progress:** `40%` 🎯
 
-**5 / 15 Days Completed**
+**6 / 15 Days Completed**
 
 ```text
 Python Basics          ✅
@@ -361,7 +373,7 @@ Operators              ✅
 Conditions             ✅
 Loops                  ✅
 Functions              ✅
-Data Structures        ⬜
+Data Structures        ✅
 Strings                ⬜
 File Handling          ⬜
 Exception Handling     ⬜
@@ -371,6 +383,12 @@ Advanced Python        ⬜
 SQLite                 ⬜
 Practice Programs      ⬜
 Mini Projects          ⬜
+```
+
+### Progress Bar
+
+```text
+████████░░░░░░░░░░░░ 40%
 ```
 
 ---
@@ -393,3 +411,15 @@ By completing this roadmap, I aim to:
 **Learn → Practice → Build → Commit → Improve 🚀**
 
 This repository will be continuously updated as I progress through my Python programming journey.
+
+---
+
+# 📌 Current Status
+
+**Completed:** 6 / 15 Days
+
+**Current Progress:** `40%`
+
+**Next Step:** 🚀 **Day 07 – Strings**
+
+**Keep learning. Keep practicing. Keep building. 💪🐍**
