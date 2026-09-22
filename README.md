@@ -118,7 +118,7 @@ My goal is to build strong Python programming fundamentals and use Python for **
 * Formatting
 * String Programs
 
-**Status:** ⬜ Not Started
+**Status:** ✅ Completed
 
 ---
 
@@ -261,7 +261,7 @@ Practical projects will be developed after completing the Python fundamentals.
 | Day 04 | Loops                  | ✅      |
 | Day 05 | Functions              | ✅      |
 | Day 06 | Data Structures        | ✅      |
-| Day 07 | Strings                | ⬜      |
+| Day 07 | Strings                | ✅      |
 | Day 08 | File Handling          | ⬜      |
 | Day 09 | Exception Handling     | ⬜      |
 | Day 10 | OOP                    | ⬜      |
@@ -299,6 +299,9 @@ Python-Programming-Roadmap/
 ├── 05_Functions/
 ├── 06_Data_Structures/
 ├── 07_Strings/
+│   ├── string_methods.py
+│   └── string_programs.py
+│
 ├── 08_File_Handling/
 ├── 09_Exception_Handling/
 ├── 10_OOP/
@@ -317,7 +320,7 @@ I use Git and GitHub to track my learning progress.
 
 ```bash
 git add .
-git commit -m "Complete Day 06 Python Data Structures"
+git commit -m "Complete Day 07 Python Strings"
 git push origin main
 ```
 
@@ -357,15 +360,21 @@ Add set examples
 Add dictionary examples
 Add list comprehension examples
 Add dictionary comprehension examples
+
+Complete Day 07 Python Strings
+Add string methods examples
+Add string programs
+Add palindrome program
+Add reverse string program
 ```
 
 ---
 
 # 📈 Learning Progress
 
-**Overall Progress:** `40%` 🎯
+**Overall Progress:** `46.67%` 🎯
 
-**6 / 15 Days Completed**
+**7 / 15 Days Completed**
 
 ```text
 Python Basics          ✅
@@ -374,7 +383,7 @@ Conditions             ✅
 Loops                  ✅
 Functions              ✅
 Data Structures        ✅
-Strings                ⬜
+Strings                ✅
 File Handling          ⬜
 Exception Handling     ⬜
 OOP                    ⬜
@@ -388,7 +397,7 @@ Mini Projects          ⬜
 ### Progress Bar
 
 ```text
-████████░░░░░░░░░░░░ 40%
+█████████░░░░░░░░░░░ 46.67%
 ```
 
 ---
@@ -416,10 +425,10 @@ This repository will be continuously updated as I progress through my Python pro
 
 # 📌 Current Status
 
-**Completed:** 6 / 15 Days
+**Completed:** 7 / 15 Days
 
-**Current Progress:** `40%`
+**Current Progress:** `46.67%`
 
-**Next Step:** 🚀 **Day 07 – Strings**
+**Next Step:** 🚀 **Day 08 – File Handling**
 
 **Keep learning. Keep practicing. Keep building. 💪🐍**
