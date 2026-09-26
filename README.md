@@ -10,282 +10,42 @@ My goal is to build strong Python programming fundamentals and use Python for **
 
 ## 🎯 Goals
 
-* Build strong Python programming fundamentals
-* Understand Python syntax and programming concepts
+* Learn Python from basics to advanced concepts
+* Build strong programming fundamentals
 * Practice problem-solving using Python
-* Learn Object-Oriented Programming (OOP)
+* Learn Object-Oriented Programming
 * Learn file handling and exception handling
-* Understand modules and packages
-* Learn basic database programming with SQLite
-* Develop practical Python projects
-* Improve coding and debugging skills
+* Learn modules and packages
+* Learn SQLite database programming
+* Build practical Python projects
 * Use Python for automation and scripting
+* Explore Python applications related to Embedded Systems
 
 ---
 
-# 📚 Learning Roadmap
+## 📚 Learning Roadmap
 
-## 01. Python Basics
-
-* Introduction to Python
-* Installing Python
-* Python Syntax
-* Variables
-* Constants
-* Data Types
-* Input and Output
-* Type Casting
-* Comments
-
-**Status:** ✅ Completed
-
----
-
-## 02. Operators
-
-* Arithmetic Operators
-* Relational Operators
-* Logical Operators
-* Assignment Operators
-* Bitwise Operators
-* Membership Operators
-* Identity Operators
-
-**Status:** ✅ Completed
+| Day | Topic                         | Status        |
+| --- | ----------------------------- | ------------- |
+| 01  | Python Basics                 | ✅ Completed   |
+| 02  | Operators                     | ✅ Completed   |
+| 03  | Conditional Statements        | ✅ Completed   |
+| 04  | Loops                         | ✅ Completed   |
+| 05  | Functions                     | ✅ Completed   |
+| 06  | Data Structures               | ✅ Completed   |
+| 07  | Strings                       | ✅ Completed   |
+| 08  | File Handling                 | ✅ Completed   |
+| 09  | Exception Handling            | ⬜ Not Started |
+| 10  | Object-Oriented Programming   | ⬜ Not Started |
+| 11  | Modules & Packages            | ⬜ Not Started |
+| 12  | Advanced Python               | ⬜ Not Started |
+| 13  | Database Programming / SQLite | ⬜ Not Started |
+| 14  | Practice Programs             | ⬜ Not Started |
+| 15  | Mini Projects                 | ⬜ Not Started |
 
 ---
 
-## 03. Conditional Statements
-
-* `if`
-* `if-else`
-* `if-elif-else`
-* Nested `if`
-* Conditional Expressions
-
-**Status:** ✅ Completed
-
----
-
-## 04. Loops
-
-* `for` Loop
-* `while` Loop
-* Nested Loops
-* `break`
-* `continue`
-* `pass`
-
-**Status:** ✅ Completed
-
----
-
-## 05. Functions
-
-* Defining Functions
-* Function Arguments
-* Return Values
-* Default Arguments
-* Keyword Arguments
-* `*args`
-* `**kwargs`
-* Lambda Functions
-* Scope
-
-**Status:** ✅ Completed
-
----
-
-## 06. Data Structures
-
-* Lists
-* Tuples
-* Sets
-* Dictionaries
-* List Comprehension
-* Dictionary Comprehension
-
-**Status:** ✅ Completed
-
----
-
-## 07. Strings
-
-* String Creation
-* String Indexing
-* String Slicing
-* String Methods
-* Formatting
-* String Programs
-
-**Status:** ✅ Completed
-
----
-
-## 08. File Handling
-
-* Open Files
-* Read Files
-* Write Files
-* Append Data
-* File Modes
-* Working with CSV Files
-
-**Status:** ⬜ Not Started
-
----
-
-## 09. Exception Handling
-
-* `try`
-* `except`
-* `else`
-* `finally`
-* Raising Exceptions
-* Custom Exceptions
-
-**Status:** ⬜ Not Started
-
----
-
-## 10. Object-Oriented Programming
-
-* Classes
-* Objects
-* Constructors
-* Instance Variables
-* Class Variables
-* Methods
-* Encapsulation
-* Inheritance
-* Polymorphism
-* Abstraction
-
-**Status:** ⬜ Not Started
-
----
-
-## 11. Modules & Packages
-
-* Importing Modules
-* Creating Modules
-* Built-in Modules
-* Packages
-* `pip`
-* Virtual Environments
-
-**Status:** ⬜ Not Started
-
----
-
-## 12. Advanced Python
-
-* Iterators
-* Generators
-* Decorators
-* Regular Expressions
-* `map()`
-* `filter()`
-* `reduce()`
-* `enumerate()`
-* `zip()`
-
-**Status:** ⬜ Not Started
-
----
-
-## 13. Database Programming
-
-### SQLite
-
-* Database Connection
-* Creating Tables
-* INSERT
-* SELECT
-* UPDATE
-* DELETE
-* CRUD Operations
-
-**Status:** ⬜ Not Started
-
----
-
-# 💻 14. Practice Programs
-
-I will solve programming problems to improve my logical thinking and problem-solving skills.
-
-### Examples
-
-* Calculator
-* Even / Odd Number
-* Prime Number
-* Factorial
-* Fibonacci Series
-* Palindrome
-* Reverse Number
-* Armstrong Number
-* Largest Number
-* Sorting
-* Searching
-* Pattern Programs
-
-**Status:** ⬜ Not Started
-
----
-
-# 🚀 15. Mini Projects
-
-Practical projects will be developed after completing the Python fundamentals.
-
-### Planned Projects
-
-* 🧮 Calculator
-* 🎓 Student Management System
-* 💰 Expense Tracker
-* 📁 File Management System
-* 📝 To-Do List
-* 🔐 Password Generator
-* 📊 CSV Data Analyzer
-
-**Status:** ⬜ Not Started
-
----
-
-# 📅 Daily Progress
-
-| Day    | Topic                  | Status |
-| ------ | ---------------------- | ------ |
-| Day 01 | Python Basics          | ✅      |
-| Day 02 | Operators              | ✅      |
-| Day 03 | Conditional Statements | ✅      |
-| Day 04 | Loops                  | ✅      |
-| Day 05 | Functions              | ✅      |
-| Day 06 | Data Structures        | ✅      |
-| Day 07 | Strings                | ✅      |
-| Day 08 | File Handling          | ⬜      |
-| Day 09 | Exception Handling     | ⬜      |
-| Day 10 | OOP                    | ⬜      |
-| Day 11 | Modules & Packages     | ⬜      |
-| Day 12 | Advanced Python        | ⬜      |
-| Day 13 | SQLite                 | ⬜      |
-| Day 14 | Practice Programs      | ⬜      |
-| Day 15 | Mini Project           | ⬜      |
-
-> `⬜ Not Started` → `🟡 In Progress` → `✅ Completed`
-
----
-
-# 🛠️ Tools & Technologies
-
-* 🐍 Python
-* 💻 VS Code
-* 🔧 Git
-* 🌐 GitHub
-* 🗄️ SQLite
-
----
-
-# 📂 Repository Structure
+## 📂 Repository Structure
 
 ```text
 Python-Programming-Roadmap/
@@ -298,6 +58,7 @@ Python-Programming-Roadmap/
 ├── 04_Loops/
 ├── 05_Functions/
 ├── 06_Data_Structures/
+│
 ├── 07_Strings/
 │   ├── string_methods.py
 │   └── string_programs.py
@@ -314,121 +75,300 @@ Python-Programming-Roadmap/
 
 ---
 
-# 🔧 Git Workflow
+# 📅 Daily Progress
 
-I use Git and GitHub to track my learning progress.
+## Day 01 – Python Basics ✅
 
-```bash
-git add .
-git commit -m "Complete Day 07 Python Strings"
-git push origin main
-```
+Topics covered:
 
-### Example Commit Messages
+* Python Introduction
+* Python Installation
+* Hello World
+* Variables
+* Data Types
+* Input and Output
+* Type Casting
+* Comments
+* Constants
+
+**Status:** ✅ Completed
+
+---
+
+## Day 02 – Operators ✅
+
+Topics covered:
+
+* Arithmetic Operators
+* Assignment Operators
+* Comparison Operators
+* Logical Operators
+* Bitwise Operators
+* Membership Operators
+* Identity Operators
+
+**Status:** ✅ Completed
+
+---
+
+## Day 03 – Conditional Statements ✅
+
+Topics covered:
+
+* `if`
+* `if-else`
+* `if-elif-else`
+* Nested `if`
+* Conditional Expressions
+
+**Status:** ✅ Completed
+
+---
+
+## Day 04 – Loops ✅
+
+Topics covered:
+
+* `for` Loop
+* `while` Loop
+* `range()`
+* `break`
+* `continue`
+* `pass`
+* Nested Loops
+
+**Status:** ✅ Completed
+
+---
+
+## Day 05 – Functions ✅
+
+Topics covered:
+
+* Defining Functions
+* Calling Functions
+* Function Arguments
+* Return Values
+* Default Arguments
+* Keyword Arguments
+* `*args`
+* `**kwargs`
+* Lambda Functions
+
+**Status:** ✅ Completed
+
+---
+
+## Day 06 – Data Structures ✅
+
+Topics covered:
+
+* Lists
+* Tuples
+* Sets
+* Dictionaries
+* List Methods
+* Tuple Methods
+* Set Methods
+* Dictionary Methods
+* Basic Data Structure Programs
+
+**Status:** ✅ Completed
+
+---
+
+## Day 07 – Strings ✅
+
+Topics covered:
+
+* String Creation
+* String Indexing
+* String Slicing
+* String Methods
+* String Formatting
+* String Programs
+* Basic String Problem Solving
+
+**Status:** ✅ Completed
+
+---
+
+## Day 08 – File Handling ✅
+
+Topics covered:
+
+* Opening Files
+* Reading Files
+* Writing Files
+* Appending Data
+* File Modes
+* `with open()`
+* CSV File Handling
+
+**Status:** ✅ Completed
+
+---
+
+## Day 09 – Exception Handling ⬜
+
+Topics to learn:
+
+* `try`
+* `except`
+* `else`
+* `finally`
+* Handling Multiple Exceptions
+* Raising Exceptions
+* Custom Exceptions
+
+**Status:** ⬜ Not Started
+
+---
+
+## Day 10 – Object-Oriented Programming ⬜
+
+Topics to learn:
+
+* Classes
+* Objects
+* Constructors
+* Instance Variables
+* Methods
+* Inheritance
+* Polymorphism
+* Encapsulation
+* Abstraction
+
+**Status:** ⬜ Not Started
+
+---
+
+## Day 11 – Modules & Packages ⬜
+
+Topics to learn:
+
+* Modules
+* `import`
+* `from ... import`
+* Built-in Modules
+* Creating Custom Modules
+* Packages
+* `__name__ == "__main__"`
+
+**Status:** ⬜ Not Started
+
+---
+
+## Day 12 – Advanced Python ⬜
+
+Topics to learn:
+
+* List Comprehension
+* Dictionary Comprehension
+* Set Comprehension
+* Iterators
+* Generators
+* Decorators
+* `map()`
+* `filter()`
+* `reduce()`
+
+**Status:** ⬜ Not Started
+
+---
+
+## Day 13 – Database Programming / SQLite ⬜
+
+Topics to learn:
+
+* SQLite Introduction
+* Creating Database
+* Creating Tables
+* Insert Data
+* Read Data
+* Update Data
+* Delete Data
+* SQL Queries
+* Python SQLite Connection
+
+**Status:** ⬜ Not Started
+
+---
+
+## Day 14 – Practice Programs ⬜
+
+Practice programs based on:
+
+* Numbers
+* Strings
+* Lists
+* Tuples
+* Dictionaries
+* Functions
+* Loops
+* File Handling
+* Exception Handling
+
+**Status:** ⬜ Not Started
+
+---
+
+## Day 15 – Mini Projects ⬜
+
+Planned projects:
+
+* Calculator
+* Student Management System
+* Expense Tracker
+* To-Do List
+* File Management Tool
+* Simple Automation Script
+
+**Status:** ⬜ Not Started
+
+---
+
+# 📊 Learning Progress
+
+**Overall Progress:** `53.33%`
+
+**8 / 15 Days Completed**
 
 ```text
-Complete Python variables
-Add Python data types programs
-Complete Day 01
-
-Complete Day 02 Python Operators
-Add arithmetic operators
-Add relational operators
-Add logical operators
-Add assignment operators
-
-Complete Day 03 Python Conditional Statements
-Add if statement examples
-Add if-else examples
-Add elif examples
-
-Complete Day 04 Python Loops
-Add for loop examples
-Add while loop examples
-Add nested loop examples
-
-Complete Day 05 Python Functions
-Add function examples
-Add function arguments examples
-Add return value examples
-Add lambda function examples
-
-Complete Day 06 Python Data Structures
-Add list examples
-Add tuple examples
-Add set examples
-Add dictionary examples
-Add list comprehension examples
-Add dictionary comprehension examples
-
-Complete Day 07 Python Strings
-Add string methods examples
-Add string programs
-Add palindrome program
-Add reverse string program
+██████████░░░░░░░░░░ 53.33%
 ```
 
 ---
 
-# 📈 Learning Progress
+## 🏆 Current Status
 
-**Overall Progress:** `46.67%` 🎯
-
-**7 / 15 Days Completed**
-
-```text
-Python Basics          ✅
-Operators              ✅
-Conditions             ✅
-Loops                  ✅
-Functions              ✅
-Data Structures        ✅
-Strings                ✅
-File Handling          ⬜
-Exception Handling     ⬜
-OOP                    ⬜
-Modules & Packages     ⬜
-Advanced Python        ⬜
-SQLite                 ⬜
-Practice Programs      ⬜
-Mini Projects          ⬜
-```
-
-### Progress Bar
-
-```text
-█████████░░░░░░░░░░░ 46.67%
-```
+* ✅ Completed: **8 / 15 Days**
+* 📈 Current Progress: **53.33%**
+* 📚 Current Level: **Python Fundamentals**
+* 🚀 Next Step: **Day 09 – Exception Handling**
 
 ---
 
-# 🎯 Final Goal
+## 🛠️ Tools & Technologies
 
-By completing this roadmap, I aim to:
-
-* Write clean and readable Python programs
-* Solve programming problems independently
-* Understand Python OOP
-* Build practical Python projects
-* Use Python for automation and scripting
-* Build a strong foundation for software and embedded-related development
-
----
-
-## 👨‍💻 Learning Journey
-
-**Learn → Practice → Build → Commit → Improve 🚀**
-
-This repository will be continuously updated as I progress through my Python programming journey.
+* 🐍 Python
+* 💻 VS Code
+* 🐙 GitHub
+* 🗄️ SQLite
+* 📊 CSV
+* 🤖 Automation
+* 🔧 Embedded Systems
 
 ---
 
-# 📌 Current Status
+## 🎯 Final Goal
 
-**Completed:** 7 / 15 Days
+By completing this roadmap, I aim to build a strong foundation in Python and develop practical programming skills that can support my career in **Embedded Systems, Software Development, Automation, and Scripting**.
 
-**Current Progress:** `46.67%`
+---
 
-**Next Step:** 🚀 **Day 08 – File Handling**
+## 🚀 Learning Journey
 
-**Keep learning. Keep practicing. Keep building. 💪🐍**
+> **Learn → Practice → Build → Improve → Repeat**
+
+⭐ This repository documents my journey of learning Python step by step.
