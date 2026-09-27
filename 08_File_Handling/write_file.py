@@ -1,4 +1,4 @@
-file = open("data.txt", "w")
+file=open("data.txt","w")
 file.write("Hello from Python\n")
 file.write("This is file handling.")
 file.close()
