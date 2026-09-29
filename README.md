@@ -35,7 +35,7 @@ My goal is to build strong Python programming fundamentals and use Python for **
 | 06  | Data Structures               | ✅ Completed   |
 | 07  | Strings                       | ✅ Completed   |
 | 08  | File Handling                 | ✅ Completed   |
-| 09  | Exception Handling            | ⬜ Not Started |
+| 09  | Exception Handling            | ✅ Completed   |
 | 10  | Object-Oriented Programming   | ⬜ Not Started |
 | 11  | Modules & Packages            | ⬜ Not Started |
 | 12  | Advanced Python               | ⬜ Not Started |
@@ -209,9 +209,9 @@ Topics covered:
 
 ---
 
-## Day 09 – Exception Handling ⬜
+## Day 09 – Exception Handling ✅
 
-Topics to learn:
+Topics covered:
 
 * `try`
 * `except`
@@ -221,7 +221,12 @@ Topics to learn:
 * Raising Exceptions
 * Custom Exceptions
 
-**Status:** ⬜ Not Started
+Practice programs:
+
+* `try_except.py`
+* `custom_exception.py`
+
+**Status:** ✅ Completed
 
 ---
 
@@ -330,22 +335,22 @@ Planned projects:
 
 # 📊 Learning Progress
 
-**Overall Progress:** `53.33%`
+**Overall Progress:** `60%`
 
-**8 / 15 Days Completed**
+**9 / 15 Days Completed**
 
 ```text
-██████████░░░░░░░░░░ 53.33%
+████████████░░░░░░░░ 60%
 ```
 
 ---
 
 ## 🏆 Current Status
 
-* ✅ Completed: **8 / 15 Days**
-* 📈 Current Progress: **53.33%**
+* ✅ Completed: **9 / 15 Days**
+* 📈 Current Progress: **60%**
 * 📚 Current Level: **Python Fundamentals**
-* 🚀 Next Step: **Day 09 – Exception Handling**
+* 🚀 Next Step: **Day 10 – Object-Oriented Programming**
 
 ---
 
