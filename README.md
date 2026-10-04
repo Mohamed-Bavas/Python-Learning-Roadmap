@@ -36,7 +36,7 @@ My goal is to build strong Python programming fundamentals and use Python for **
 | 07  | Strings                       | ✅ Completed   |
 | 08  | File Handling                 | ✅ Completed   |
 | 09  | Exception Handling            | ✅ Completed   |
-| 10  | Object-Oriented Programming   | ⬜ Not Started |
+| 10  | Object-Oriented Programming   | ✅ Completed   |
 | 11  | Modules & Packages            | ⬜ Not Started |
 | 12  | Advanced Python               | ⬜ Not Started |
 | 13  | Database Programming / SQLite | ⬜ Not Started |
@@ -230,21 +230,23 @@ Practice programs:
 
 ---
 
-## Day 10 – Object-Oriented Programming ⬜
+## Day 10 – Object-Oriented Programming ✅
 
-Topics to learn:
+Topics covered:
 
-* Classes
-* Objects
-* Constructors
-* Instance Variables
-* Methods
+* Classes and Objects
 * Inheritance
 * Polymorphism
 * Encapsulation
-* Abstraction
 
-**Status:** ⬜ Not Started
+Practice programs:
+
+* `class_object.py`
+* `inheritance.py`
+* `polymorphism.py`
+* `encapsulation.py`
+
+**Status:** ✅ Completed
 
 ---
 
@@ -335,22 +337,22 @@ Planned projects:
 
 # 📊 Learning Progress
 
-**Overall Progress:** `60%`
+**Overall Progress:** `66.67%`
 
-**9 / 15 Days Completed**
+**10 / 15 Days Completed**
 
 ```text
-████████████░░░░░░░░ 60%
+█████████████░░░░░░░ 66.67%
 ```
 
 ---
 
 ## 🏆 Current Status
 
-* ✅ Completed: **9 / 15 Days**
-* 📈 Current Progress: **60%**
-* 📚 Current Level: **Python Fundamentals**
-* 🚀 Next Step: **Day 10 – Object-Oriented Programming**
+* ✅ Completed: **10 / 15 Days**
+* 📈 Current Progress: **66.67%**
+* 📚 Current Level: **Python Fundamentals + OOP**
+* 🚀 Next Step: **Day 11 – Modules & Packages**
 
 ---
 
