@@ -37,7 +37,7 @@ My goal is to build strong Python programming fundamentals and use Python for **
 | 08  | File Handling                 | ✅ Completed   |
 | 09  | Exception Handling            | ✅ Completed   |
 | 10  | Object-Oriented Programming   | ✅ Completed   |
-| 11  | Modules & Packages            | ⬜ Not Started |
+| 11  | Modules & Packages            | ✅ Completed   |
 | 12  | Advanced Python               | ⬜ Not Started |
 | 13  | Database Programming / SQLite | ⬜ Not Started |
 | 14  | Practice Programs             | ⬜ Not Started |
@@ -66,7 +66,11 @@ Python-Programming-Roadmap/
 ├── 08_File_Handling/
 ├── 09_Exception_Handling/
 ├── 10_OOP/
+│
 ├── 11_Modules_Packages/
+│   ├── main.py
+│   └── math_operations.py
+│
 ├── 12_Advanced_Python/
 ├── 13_SQLite/
 ├── 14_Practice_Programs/
@@ -250,19 +254,24 @@ Practice programs:
 
 ---
 
-## Day 11 – Modules & Packages ⬜
+## Day 11 – Modules & Packages ✅
 
-Topics to learn:
+Topics covered:
 
-* Modules
+* Python Modules
 * `import`
-* `from ... import`
-* Built-in Modules
 * Creating Custom Modules
-* Packages
+* Using Functions from a Module
+* Code Reusability
+* Basic Module Organization
 * `__name__ == "__main__"`
 
-**Status:** ⬜ Not Started
+Practice files:
+
+* `main.py`
+* `math_operations.py`
+
+**Status:** ✅ Completed
 
 ---
 
@@ -337,22 +346,22 @@ Planned projects:
 
 # 📊 Learning Progress
 
-**Overall Progress:** `66.67%`
+**Overall Progress:** `73.33%`
 
-**10 / 15 Days Completed**
+**11 / 15 Days Completed**
 
 ```text
-█████████████░░░░░░░ 66.67%
+███████████████░░░░░ 73.33%
 ```
 
 ---
 
 ## 🏆 Current Status
 
-* ✅ Completed: **10 / 15 Days**
-* 📈 Current Progress: **66.67%**
-* 📚 Current Level: **Python Fundamentals + OOP**
-* 🚀 Next Step: **Day 11 – Modules & Packages**
+* ✅ Completed: **11 / 15 Days**
+* 📈 Current Progress: **73.33%**
+* 📚 Current Level: **Python Fundamentals + OOP + Modules**
+* 🚀 Next Step: **Day 12 – Advanced Python**
 
 ---
 
