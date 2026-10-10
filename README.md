@@ -38,7 +38,7 @@ My goal is to build strong Python programming fundamentals and use Python for **
 | 09  | Exception Handling            | ✅ Completed   |
 | 10  | Object-Oriented Programming   | ✅ Completed   |
 | 11  | Modules & Packages            | ✅ Completed   |
-| 12  | Advanced Python               | ⬜ Not Started |
+| 12  | Advanced Python               | ✅ Completed   |
 | 13  | Database Programming / SQLite | ⬜ Not Started |
 | 14  | Practice Programs             | ⬜ Not Started |
 | 15  | Mini Projects                 | ⬜ Not Started |
@@ -72,6 +72,10 @@ Python-Programming-Roadmap/
 │   └── math_operations.py
 │
 ├── 12_Advanced_Python/
+│   ├── decorators.py
+│   ├── generators.py
+│   └── iterators.py
+│
 ├── 13_SQLite/
 ├── 14_Practice_Programs/
 └── 15_Mini_Projects/
@@ -264,7 +268,6 @@ Topics covered:
 * Using Functions from a Module
 * Code Reusability
 * Basic Module Organization
-* `__name__ == "__main__"`
 
 Practice files:
 
@@ -275,21 +278,26 @@ Practice files:
 
 ---
 
-## Day 12 – Advanced Python ⬜
+## Day 12 – Advanced Python ✅
 
-Topics to learn:
+Topics covered:
 
-* List Comprehension
-* Dictionary Comprehension
-* Set Comprehension
 * Iterators
+* `iter()`
+* `next()`
 * Generators
+* `yield`
 * Decorators
-* `map()`
-* `filter()`
-* `reduce()`
+* Function Wrapping
+* Reusable Code
 
-**Status:** ⬜ Not Started
+Practice files:
+
+* `iterators.py`
+* `generators.py`
+* `decorators.py`
+
+**Status:** ✅ Completed
 
 ---
 
@@ -298,14 +306,14 @@ Topics to learn:
 Topics to learn:
 
 * SQLite Introduction
-* Creating Database
+* Creating a Database
 * Creating Tables
-* Insert Data
-* Read Data
-* Update Data
-* Delete Data
+* Inserting Data
+* Reading Data
+* Updating Data
+* Deleting Data
 * SQL Queries
-* Python SQLite Connection
+* Connecting Python with SQLite
 
 **Status:** ⬜ Not Started
 
@@ -346,22 +354,22 @@ Planned projects:
 
 # 📊 Learning Progress
 
-**Overall Progress:** `73.33%`
+**Overall Progress:** `80%`
 
-**11 / 15 Days Completed**
+**12 / 15 Days Completed**
 
 ```text
-███████████████░░░░░ 73.33%
+████████████████░░░░ 80%
 ```
 
 ---
 
 ## 🏆 Current Status
 
-* ✅ Completed: **11 / 15 Days**
-* 📈 Current Progress: **73.33%**
-* 📚 Current Level: **Python Fundamentals + OOP + Modules**
-* 🚀 Next Step: **Day 12 – Advanced Python**
+* ✅ Completed: **12 / 15 Days**
+* 📈 Current Progress: **80%**
+* 📚 Current Level: **Python Fundamentals + OOP + Modules + Advanced Python**
+* 🚀 Next Step: **Day 13 – Database Programming / SQLite**
 
 ---
 
