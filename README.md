@@ -10,38 +10,38 @@ My goal is to build strong Python programming fundamentals and use Python for **
 
 ## 🎯 Goals
 
-* Learn Python from basics to advanced concepts
-* Build strong programming fundamentals
-* Practice problem-solving using Python
-* Learn Object-Oriented Programming
-* Learn file handling and exception handling
-* Learn modules and packages
-* Learn SQLite database programming
-* Build practical Python projects
-* Use Python for automation and scripting
-* Explore Python applications related to Embedded Systems
+- Learn Python from basics to advanced concepts
+- Build strong programming fundamentals
+- Practice problem-solving using Python
+- Learn Object-Oriented Programming
+- Learn file handling and exception handling
+- Learn modules and packages
+- Learn SQLite database programming
+- Build practical Python projects
+- Use Python for automation and scripting
+- Explore Python applications related to Embedded Systems
 
 ---
 
 ## 📚 Learning Roadmap
 
-| Day | Topic                         | Status        |
-| --- | ----------------------------- | ------------- |
-| 01  | Python Basics                 | ✅ Completed   |
-| 02  | Operators                     | ✅ Completed   |
-| 03  | Conditional Statements        | ✅ Completed   |
-| 04  | Loops                         | ✅ Completed   |
-| 05  | Functions                     | ✅ Completed   |
-| 06  | Data Structures               | ✅ Completed   |
-| 07  | Strings                       | ✅ Completed   |
-| 08  | File Handling                 | ✅ Completed   |
-| 09  | Exception Handling            | ✅ Completed   |
-| 10  | Object-Oriented Programming   | ✅ Completed   |
-| 11  | Modules & Packages            | ✅ Completed   |
-| 12  | Advanced Python               | ✅ Completed   |
-| 13  | Database Programming / SQLite | ⬜ Not Started |
-| 14  | Practice Programs             | ⬜ Not Started |
-| 15  | Mini Projects                 | ⬜ Not Started |
+| Day | Topic | Status |
+|---|---|---|
+| 01 | Python Basics | ✅ Completed |
+| 02 | Operators | ✅ Completed |
+| 03 | Conditional Statements | ✅ Completed |
+| 04 | Loops | ✅ Completed |
+| 05 | Functions | ✅ Completed |
+| 06 | Data Structures | ✅ Completed |
+| 07 | Strings | ✅ Completed |
+| 08 | File Handling | ✅ Completed |
+| 09 | Exception Handling | ✅ Completed |
+| 10 | Object-Oriented Programming | ✅ Completed |
+| 11 | Modules & Packages | ✅ Completed |
+| 12 | Advanced Python | ✅ Completed |
+| 13 | Database Programming / SQLite | ✅ Completed |
+| 14 | Practice Programs | ⬜ Not Started |
+| 15 | Mini Projects | ⬜ Not Started |
 
 ---
 
@@ -77,6 +77,8 @@ Python-Programming-Roadmap/
 │   └── iterators.py
 │
 ├── 13_SQLite/
+│   └── database.py
+│
 ├── 14_Practice_Programs/
 └── 15_Mini_Projects/
 ```
@@ -89,15 +91,15 @@ Python-Programming-Roadmap/
 
 Topics covered:
 
-* Python Introduction
-* Python Installation
-* Hello World
-* Variables
-* Data Types
-* Input and Output
-* Type Casting
-* Comments
-* Constants
+- Python Introduction
+- Python Installation
+- Hello World
+- Variables
+- Data Types
+- Input and Output
+- Type Casting
+- Comments
+- Constants
 
 **Status:** ✅ Completed
 
@@ -107,13 +109,13 @@ Topics covered:
 
 Topics covered:
 
-* Arithmetic Operators
-* Assignment Operators
-* Comparison Operators
-* Logical Operators
-* Bitwise Operators
-* Membership Operators
-* Identity Operators
+- Arithmetic Operators
+- Assignment Operators
+- Comparison Operators
+- Logical Operators
+- Bitwise Operators
+- Membership Operators
+- Identity Operators
 
 **Status:** ✅ Completed
 
@@ -123,11 +125,11 @@ Topics covered:
 
 Topics covered:
 
-* `if`
-* `if-else`
-* `if-elif-else`
-* Nested `if`
-* Conditional Expressions
+- `if`
+- `if-else`
+- `if-elif-else`
+- Nested `if`
+- Conditional Expressions
 
 **Status:** ✅ Completed
 
@@ -137,13 +139,13 @@ Topics covered:
 
 Topics covered:
 
-* `for` Loop
-* `while` Loop
-* `range()`
-* `break`
-* `continue`
-* `pass`
-* Nested Loops
+- `for` Loop
+- `while` Loop
+- `range()`
+- `break`
+- `continue`
+- `pass`
+- Nested Loops
 
 **Status:** ✅ Completed
 
@@ -153,15 +155,15 @@ Topics covered:
 
 Topics covered:
 
-* Defining Functions
-* Calling Functions
-* Function Arguments
-* Return Values
-* Default Arguments
-* Keyword Arguments
-* `*args`
-* `**kwargs`
-* Lambda Functions
+- Defining Functions
+- Calling Functions
+- Function Arguments
+- Return Values
+- Default Arguments
+- Keyword Arguments
+- `*args`
+- `**kwargs`
+- Lambda Functions
 
 **Status:** ✅ Completed
 
@@ -171,15 +173,15 @@ Topics covered:
 
 Topics covered:
 
-* Lists
-* Tuples
-* Sets
-* Dictionaries
-* List Methods
-* Tuple Methods
-* Set Methods
-* Dictionary Methods
-* Basic Data Structure Programs
+- Lists
+- Tuples
+- Sets
+- Dictionaries
+- List Methods
+- Tuple Methods
+- Set Methods
+- Dictionary Methods
+- Basic Data Structure Programs
 
 **Status:** ✅ Completed
 
@@ -189,13 +191,18 @@ Topics covered:
 
 Topics covered:
 
-* String Creation
-* String Indexing
-* String Slicing
-* String Methods
-* String Formatting
-* String Programs
-* Basic String Problem Solving
+- String Creation
+- String Indexing
+- String Slicing
+- String Methods
+- String Formatting
+- String Programs
+- Basic String Problem Solving
+
+Practice files:
+
+- `string_methods.py`
+- `string_programs.py`
 
 **Status:** ✅ Completed
 
@@ -205,13 +212,13 @@ Topics covered:
 
 Topics covered:
 
-* Opening Files
-* Reading Files
-* Writing Files
-* Appending Data
-* File Modes
-* `with open()`
-* CSV File Handling
+- Opening Files
+- Reading Files
+- Writing Files
+- Appending Data
+- File Modes
+- `with open()`
+- CSV File Handling
 
 **Status:** ✅ Completed
 
@@ -221,18 +228,18 @@ Topics covered:
 
 Topics covered:
 
-* `try`
-* `except`
-* `else`
-* `finally`
-* Handling Multiple Exceptions
-* Raising Exceptions
-* Custom Exceptions
+- `try`
+- `except`
+- `else`
+- `finally`
+- Handling Multiple Exceptions
+- Raising Exceptions
+- Custom Exceptions
 
-Practice programs:
+Practice files:
 
-* `try_except.py`
-* `custom_exception.py`
+- `try_except.py`
+- `custom_exception.py`
 
 **Status:** ✅ Completed
 
@@ -242,17 +249,17 @@ Practice programs:
 
 Topics covered:
 
-* Classes and Objects
-* Inheritance
-* Polymorphism
-* Encapsulation
+- Classes and Objects
+- Inheritance
+- Polymorphism
+- Encapsulation
 
-Practice programs:
+Practice files:
 
-* `class_object.py`
-* `inheritance.py`
-* `polymorphism.py`
-* `encapsulation.py`
+- `class_object.py`
+- `inheritance.py`
+- `polymorphism.py`
+- `encapsulation.py`
 
 **Status:** ✅ Completed
 
@@ -262,17 +269,17 @@ Practice programs:
 
 Topics covered:
 
-* Python Modules
-* `import`
-* Creating Custom Modules
-* Using Functions from a Module
-* Code Reusability
-* Basic Module Organization
+- Python Modules
+- `import`
+- Creating Custom Modules
+- Using Functions from a Module
+- Code Reusability
+- Basic Module Organization
 
 Practice files:
 
-* `main.py`
-* `math_operations.py`
+- `main.py`
+- `math_operations.py`
 
 **Status:** ✅ Completed
 
@@ -282,56 +289,61 @@ Practice files:
 
 Topics covered:
 
-* Iterators
-* `iter()`
-* `next()`
-* Generators
-* `yield`
-* Decorators
-* Function Wrapping
-* Reusable Code
+- Iterators
+- `iter()`
+- `next()`
+- Generators
+- `yield`
+- Decorators
+- Function Wrapping
+- Reusable Code
 
 Practice files:
 
-* `iterators.py`
-* `generators.py`
-* `decorators.py`
+- `iterators.py`
+- `generators.py`
+- `decorators.py`
 
 **Status:** ✅ Completed
 
 ---
 
-## Day 13 – Database Programming / SQLite ⬜
+## Day 13 – Database Programming / SQLite ✅
 
-Topics to learn:
+### Topics Practiced
 
-* SQLite Introduction
-* Creating a Database
-* Creating Tables
-* Inserting Data
-* Reading Data
-* Updating Data
-* Deleting Data
-* SQL Queries
-* Connecting Python with SQLite
+- Introduction to SQLite
+- Database Programming with Python
+- Python's `sqlite3` Module
+- Basic Database Connection Concepts
+- Understanding How Python Works with Databases
 
-**Status:** ⬜ Not Started
+### Practice File
+
+- `database.py`
+
+### Learning Goal
+
+To understand how Python can connect to an SQLite database and build a foundation for storing and managing data in Python applications.
+
+**Status:** ✅ Completed
 
 ---
 
 ## Day 14 – Practice Programs ⬜
 
-Practice programs based on:
+Planned practice programs based on:
 
-* Numbers
-* Strings
-* Lists
-* Tuples
-* Dictionaries
-* Functions
-* Loops
-* File Handling
-* Exception Handling
+- Numbers
+- Strings
+- Lists
+- Tuples
+- Dictionaries
+- Functions
+- Loops
+- File Handling
+- Exception Handling
+- Basic Problem Solving
 
 **Status:** ⬜ Not Started
 
@@ -341,12 +353,12 @@ Practice programs based on:
 
 Planned projects:
 
-* Calculator
-* Student Management System
-* Expense Tracker
-* To-Do List
-* File Management Tool
-* Simple Automation Script
+- Calculator
+- Student Management System
+- Expense Tracker
+- To-Do List
+- File Management Tool
+- Simple Automation Script
 
 **Status:** ⬜ Not Started
 
@@ -354,34 +366,34 @@ Planned projects:
 
 # 📊 Learning Progress
 
-**Overall Progress:** `80%`
+**Overall Progress:** `86.67%`
 
-**12 / 15 Days Completed**
+**13 / 15 Days Completed**
 
 ```text
-████████████████░░░░ 80%
+█████████████████░░░ 86.67%
 ```
 
 ---
 
 ## 🏆 Current Status
 
-* ✅ Completed: **12 / 15 Days**
-* 📈 Current Progress: **80%**
-* 📚 Current Level: **Python Fundamentals + OOP + Modules + Advanced Python**
-* 🚀 Next Step: **Day 13 – Database Programming / SQLite**
+- ✅ Completed: **13 / 15 Days**
+- 📈 Current Progress: **86.67%**
+- 📚 Current Level: **Python Fundamentals + OOP + Modules + Advanced Python + SQLite Basics**
+- 🚀 Next Step: **Day 14 – Practice Programs**
 
 ---
 
 ## 🛠️ Tools & Technologies
 
-* 🐍 Python
-* 💻 VS Code
-* 🐙 GitHub
-* 🗄️ SQLite
-* 📊 CSV
-* 🤖 Automation
-* 🔧 Embedded Systems
+- 🐍 Python
+- 💻 VS Code
+- 🐙 GitHub
+- 🗄️ SQLite
+- 📊 CSV
+- 🤖 Automation
+- 🔧 Embedded Systems
 
 ---
 
