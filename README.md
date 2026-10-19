@@ -40,7 +40,7 @@ My goal is to build strong Python programming fundamentals and use Python for **
 | 11 | Modules & Packages | ✅ Completed |
 | 12 | Advanced Python | ✅ Completed |
 | 13 | Database Programming / SQLite | ✅ Completed |
-| 14 | Practice Programs | ⬜ Not Started |
+| 14 | Practice Programs | ✅ Completed |
 | 15 | Mini Projects | ⬜ Not Started |
 
 ---
@@ -80,6 +80,11 @@ Python-Programming-Roadmap/
 │   └── database.py
 │
 ├── 14_Practice_Programs/
+│   ├── calculator.py
+│   ├── fibonacci.py
+│   ├── palindrome.py
+│   └── prime_number.py
+│
 └── 15_Mini_Projects/
 ```
 
@@ -89,8 +94,7 @@ Python-Programming-Roadmap/
 
 ## Day 01 – Python Basics ✅
 
-Topics covered:
-
+**Topics covered:**
 - Python Introduction
 - Python Installation
 - Hello World
@@ -107,8 +111,7 @@ Topics covered:
 
 ## Day 02 – Operators ✅
 
-Topics covered:
-
+**Topics covered:**
 - Arithmetic Operators
 - Assignment Operators
 - Comparison Operators
@@ -123,8 +126,7 @@ Topics covered:
 
 ## Day 03 – Conditional Statements ✅
 
-Topics covered:
-
+**Topics covered:**
 - `if`
 - `if-else`
 - `if-elif-else`
@@ -137,8 +139,7 @@ Topics covered:
 
 ## Day 04 – Loops ✅
 
-Topics covered:
-
+**Topics covered:**
 - `for` Loop
 - `while` Loop
 - `range()`
@@ -153,8 +154,7 @@ Topics covered:
 
 ## Day 05 – Functions ✅
 
-Topics covered:
-
+**Topics covered:**
 - Defining Functions
 - Calling Functions
 - Function Arguments
@@ -171,8 +171,7 @@ Topics covered:
 
 ## Day 06 – Data Structures ✅
 
-Topics covered:
-
+**Topics covered:**
 - Lists
 - Tuples
 - Sets
@@ -189,8 +188,7 @@ Topics covered:
 
 ## Day 07 – Strings ✅
 
-Topics covered:
-
+**Topics covered:**
 - String Creation
 - String Indexing
 - String Slicing
@@ -199,8 +197,7 @@ Topics covered:
 - String Programs
 - Basic String Problem Solving
 
-Practice files:
-
+**Practice files:**
 - `string_methods.py`
 - `string_programs.py`
 
@@ -210,8 +207,7 @@ Practice files:
 
 ## Day 08 – File Handling ✅
 
-Topics covered:
-
+**Topics covered:**
 - Opening Files
 - Reading Files
 - Writing Files
@@ -226,8 +222,7 @@ Topics covered:
 
 ## Day 09 – Exception Handling ✅
 
-Topics covered:
-
+**Topics covered:**
 - `try`
 - `except`
 - `else`
@@ -236,8 +231,7 @@ Topics covered:
 - Raising Exceptions
 - Custom Exceptions
 
-Practice files:
-
+**Practice files:**
 - `try_except.py`
 - `custom_exception.py`
 
@@ -247,15 +241,13 @@ Practice files:
 
 ## Day 10 – Object-Oriented Programming ✅
 
-Topics covered:
-
+**Topics covered:**
 - Classes and Objects
 - Inheritance
 - Polymorphism
 - Encapsulation
 
-Practice files:
-
+**Practice files:**
 - `class_object.py`
 - `inheritance.py`
 - `polymorphism.py`
@@ -267,8 +259,7 @@ Practice files:
 
 ## Day 11 – Modules & Packages ✅
 
-Topics covered:
-
+**Topics covered:**
 - Python Modules
 - `import`
 - Creating Custom Modules
@@ -276,8 +267,7 @@ Topics covered:
 - Code Reusability
 - Basic Module Organization
 
-Practice files:
-
+**Practice files:**
 - `main.py`
 - `math_operations.py`
 
@@ -287,8 +277,7 @@ Practice files:
 
 ## Day 12 – Advanced Python ✅
 
-Topics covered:
-
+**Topics covered:**
 - Iterators
 - `iter()`
 - `next()`
@@ -298,8 +287,7 @@ Topics covered:
 - Function Wrapping
 - Reusable Code
 
-Practice files:
-
+**Practice files:**
 - `iterators.py`
 - `generators.py`
 - `decorators.py`
@@ -310,49 +298,65 @@ Practice files:
 
 ## Day 13 – Database Programming / SQLite ✅
 
-### Topics Practiced
-
+**Topics practiced:**
 - Introduction to SQLite
 - Database Programming with Python
 - Python's `sqlite3` Module
 - Basic Database Connection Concepts
 - Understanding How Python Works with Databases
 
-### Practice File
-
+**Practice file:**
 - `database.py`
 
-### Learning Goal
-
-To understand how Python can connect to an SQLite database and build a foundation for storing and managing data in Python applications.
+**Learning goal:** Understand how Python can connect to an SQLite database and build a foundation for storing and managing data in Python applications.
 
 **Status:** ✅ Completed
 
 ---
 
-## Day 14 – Practice Programs ⬜
+## Day 14 – Practice Programs ✅
 
-Planned practice programs based on:
+**Overview:**
 
-- Numbers
-- Strings
-- Lists
-- Tuples
-- Dictionaries
-- Functions
+Practiced basic Python programming problems to improve logical thinking, problem-solving skills, and the ability to apply previously learned Python concepts.
+
+**Programs practiced:**
+
+### 1. Calculator – `calculator.py`
+- Basic arithmetic operations
+- User input and output
+- Conditional statements
+
+### 2. Fibonacci Series – `fibonacci.py`
+- Number sequences
 - Loops
-- File Handling
-- Exception Handling
-- Basic Problem Solving
+- Updating variable values
 
-**Status:** ⬜ Not Started
+### 3. Palindrome – `palindrome.py`
+- String or number comparison
+- Conditional statements
+- Basic problem-solving logic
+
+### 4. Prime Number – `prime_number.py`
+- Loops
+- Conditional statements
+- Divisibility and remainder operations
+
+**Skills developed:**
+- Python programming fundamentals
+- Logical thinking
+- Mathematical problem-solving
+- Loop-based programming
+- Conditional logic
+- Debugging and coding practice
+
+**Status:** ✅ Completed
 
 ---
 
 ## Day 15 – Mini Projects ⬜
 
-Planned projects:
-
+**Planned projects:**
 - Calculator
 - Student Management System
 - Expense Tracker
@@ -364,24 +368,24 @@ Planned projects:
 
 ---
 
-# 📊 Learning Progress
+## 📊 Learning Progress
 
-**Overall Progress:** `86.67%`
+**Overall Progress:** `93.33%`
 
-**13 / 15 Days Completed**
+**14 / 15 Days Completed**
 
 ```text
-█████████████████░░░ 86.67%
+███████████████████░ 93.33%
 ```
 
 ---
 
 ## 🏆 Current Status
 
-- ✅ Completed: **13 / 15 Days**
-- 📈 Current Progress: **86.67%**
-- 📚 Current Level: **Python Fundamentals + OOP + Modules + Advanced Python + SQLite Basics**
-- 🚀 Next Step: **Day 14 – Practice Programs**
+- ✅ Completed: **14 / 15 Days**
+- 📈 Current Progress: **93.33%**
+- 📚 Current Level: **Python Fundamentals + OOP + Modules + Advanced Python + SQLite Basics + Practice Programs**
+- 🚀 Next Step: **Day 15 – Mini Projects**
 
 ---
 
